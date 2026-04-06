@@ -1,0 +1,885 @@
+Generated unique observe URLs: 294
+[1] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759227184/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[2] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921566467/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[3] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208691/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[4] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484275/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[5] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065542960/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[6] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822618883/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[7] FAIL 404 https://ID.GHWPC.COM/00/889497571157645406257/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[8] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208690/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[9] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484259/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[10] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065542704/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[11] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822614787/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[12] FAIL 404 https://ID.GHWPC.COM/00/889497571157645340722/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[13] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759226928/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[14] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921562371/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[15] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143157/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[16] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435731/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[17] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048766256/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[18] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554191619/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[19] FAIL 404 https://ID.GHWPC.COM/00/889497571153350570036/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[20] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759227696/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[21] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921574659/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[22] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339766/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[23] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581475/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[24] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099098160/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[25] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359502083/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[26] FAIL 404 https://ID.GHWPC.COM/00/889497571166235537457/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730363031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[27] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143155/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[28] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435699/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[29] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048765744/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[30] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554183427/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[31] FAIL 404 https://ID.GHWPC.COM/00/889497571153350438962/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[32] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759227440/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[33] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921570563/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[34] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274227/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[35] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532851/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[36] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082320176/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[37] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091054339/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[38] FAIL 404 https://ID.GHWPC.COM/00/889497571161940373555/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[39] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339762/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730323031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[40] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581411/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730323031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[41] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099097136/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730323031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[42] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359485699/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730323031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[43] FAIL 404 https://ID.GHWPC.COM/00/889497571166235275313/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730323031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[44] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274225/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[45] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532819/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[46] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082319664/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[47] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091046147/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[48] FAIL 404 https://ID.GHWPC.COM/00/889497571161940242481/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[49] FAIL 404 https://ID.GHWPC.COM/00/889497571157645340721/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[50] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274229/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[51] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532883/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[52] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082320688/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[53] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091062531/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[54] FAIL 404 https://ID.GHWPC.COM/00/889497571161940504627/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[55] FAIL 404 https://ID.GHWPC.COM/00/889497571157645406258/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[56] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208692/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[57] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484291/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[58] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065543216/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[59] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822622979/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[60] FAIL 404 https://ID.GHWPC.COM/00/889497571157645471793/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[61] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339764/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730343031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[62] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581443/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730343031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[63] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099097648/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730343031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[64] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359493891/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730343031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[65] FAIL 404 https://ID.GHWPC.COM/00/889497571166235406385/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730343031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[66] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208694/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530363031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[67] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484323/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530363031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[68] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065543728/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530363031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[69] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822631171/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530363031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[70] FAIL 404 https://ID.GHWPC.COM/00/889497571157645602865/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530363031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[71] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339761/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730313031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[72] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581395/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730313031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[73] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099096880/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730313031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[74] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359481603/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730313031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[75] FAIL 404 https://ID.GHWPC.COM/00/889497571166235209777/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730313031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[76] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143154/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323034 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[77] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435683/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323034 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[78] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048765488/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323034 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[79] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554179331/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323034 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[80] FAIL 404 https://ID.GHWPC.COM/00/889497571153350373428/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[81] FAIL 404 https://ID.GHWPC.COM/00/889497571161940242483/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630313033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[82] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143158/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[83] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435747/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[84] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048766512/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[85] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554195715/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[86] FAIL 404 https://ID.GHWPC.COM/00/889497571153350635571/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[87] FAIL 404 https://ID.GHWPC.COM/00/889497571153350635572/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[88] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339763/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730333031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[89] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581427/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730333031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[90] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099097392/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730333031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[91] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359489795/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730333031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[92] FAIL 404 https://ID.GHWPC.COM/00/889497571166235340849/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730333031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[93] FAIL 404 https://ID.GHWPC.COM/00/889497571161940373553/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630333031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[94] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208689/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[95] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484243/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[96] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065542448/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[97] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822610691/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[98] FAIL 404 https://ID.GHWPC.COM/00/889497571157645275185/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[99] FAIL 404 https://ID.GHWPC.COM/00/4178216973218567160063/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[100] FAIL 404 https://ID.GHWPC.COM/00/738340811322041569272/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[101] FAIL 404 https://ID.GHWPC.COM/00/2368720015413374680975/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[102] FAIL 400 https://ID.GHWPC.COM/00/120588383656833186042/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[103] FAIL 404 https://ID.GHWPC.COM/00/1929414138509330976680/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[104] FAIL 404 https://ID.GHWPC.COM/00/2536427318931424344714/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[105] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805857/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A1 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[106] FAIL 404 https://ID.GHWPC.COM/00/4178216973218569257215/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[107] FAIL 404 https://ID.GHWPC.COM/00/738340811322075123704/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[108] FAIL 404 https://ID.GHWPC.COM/00/2368720015413911551887/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[109] FAIL 400 https://ID.GHWPC.COM/00/120588383665423120634/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[110] FAIL 404 https://ID.GHWPC.COM/00/1929414138646769930152/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[111] FAIL 404 https://ID.GHWPC.COM/00/2536427321130447600265/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[112] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894687/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89F strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[113] FAIL 404 https://ID.GHWPC.COM/00/2536427321130447600266/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA8A0 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[114] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894688/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA8A0 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[115] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805858/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A2 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[116] FAIL 404 https://ID.GHWPC.COM/00/889497571157645275188/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[117] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894691/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA8A3 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[118] FAIL 404 https://ID.GHWPC.COM/00/2536427321130447600264/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA88B strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[119] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894667/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA88B strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[120] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894664/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA888 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[121] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894670/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA88E strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[122] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274230/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[123] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532899/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[124] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082320944/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[125] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091066627/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[126] FAIL 404 https://ID.GHWPC.COM/00/889497571161940570163/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[127] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805860/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA8A4 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[128] FAIL 404 https://ID.GHWPC.COM/00/2536427318931424344712/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA885 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[129] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805829/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA885 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[130] FAIL 404 https://ID.GHWPC.COM/00/2536427318931424344713/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA89B strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[131] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805851/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA89B strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[132] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894657/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA881 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[133] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894660/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA884 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[134] FAIL 404 https://ID.GHWPC.COM/00/2536427318931424344711/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA876 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[135] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805814/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA876 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[136] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805839/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA88F strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[137] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759226672/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[138] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921558275/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[139] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164077619/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[140] FAIL 404 https://ID.GHWPC.COM/00/4527739911084044387123/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[141] FAIL 404 https://ID.GHWPC.COM/00/1608341334300031988528/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[142] FAIL 404 https://ID.GHWPC.COM/00/2121628934452285747971/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[143] FAIL 404 https://ID.GHWPC.COM/00/889497571149055471666/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330333032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[144] FAIL 404 https://ID.GHWPC.COM/00/889497571161940504625/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630353031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[145] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805823/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA87F strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[146] FAIL 404 https://ID.GHWPC.COM/00/889497571157645471794/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[147] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894681/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA899 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[148] FAIL 404 https://ID.GHWPC.COM/00/889497571153350438964/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[149] FAIL 404 https://ID.GHWPC.COM/00/889497571153350373426/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[150] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805830/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA886 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[151] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894693/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA8A5 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[152] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805827/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA883 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[153] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894658/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA882 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[154] FAIL 404 https://ID.GHWPC.COM/00/1555243593461759228208/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[155] FAIL 400 https://ID.GHWPC.COM/00/1272065081039921582851/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[156] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164470837/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[157] FAIL 404 https://ID.GHWPC.COM/00/4527739911084050678611/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[158] FAIL 404 https://ID.GHWPC.COM/00/1608341334300132652336/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[159] FAIL 404 https://ID.GHWPC.COM/00/2121628934453896368899/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[160] FAIL 404 https://ID.GHWPC.COM/00/889497571174825406515/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930353033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[161] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143153/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[162] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435667/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[163] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048765232/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[164] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554175235/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[165] FAIL 404 https://ID.GHWPC.COM/00/889497571153350307891/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[166] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805817/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA879 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[167] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894672/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA890 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[168] FAIL 404 https://ID.GHWPC.COM/00/889497571153350438963/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[169] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274226/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[170] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532835/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[171] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082319920/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[172] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091050243/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[173] FAIL 404 https://ID.GHWPC.COM/00/889497571161940308017/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[174] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894682/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA89A strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[175] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164077620/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[176] FAIL 404 https://ID.GHWPC.COM/00/4527739911084044387139/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[177] FAIL 404 https://ID.GHWPC.COM/00/1608341334300031988784/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[178] FAIL 404 https://ID.GHWPC.COM/00/2121628934452285752067/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[179] FAIL 404 https://ID.GHWPC.COM/00/889497571149055537202/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[180] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894678/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA896 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[181] FAIL 404 https://ID.GHWPC.COM/00/889497571161940570161/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630363031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[182] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164208693/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530353031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[183] FAIL 404 https://ID.GHWPC.COM/00/4527739911084046484307/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530353031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[184] FAIL 404 https://ID.GHWPC.COM/00/1608341334300065543472/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530353031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[185] FAIL 404 https://ID.GHWPC.COM/00/2121628934452822627075/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530353031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[186] FAIL 404 https://ID.GHWPC.COM/00/889497571157645537329/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530353031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[187] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164077618/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[188] FAIL 404 https://ID.GHWPC.COM/00/4527739911084044387107/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[189] FAIL 404 https://ID.GHWPC.COM/00/1608341334300031988272/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[190] FAIL 404 https://ID.GHWPC.COM/00/2121628934452285743875/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[191] FAIL 404 https://ID.GHWPC.COM/00/889497571149055406130/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[192] FAIL 404 https://ID.GHWPC.COM/00/490915624348167487180/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[193] FAIL 404 https://ID.GHWPC.COM/00/3132283506701034581188/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[194] FAIL 404 https://ID.GHWPC.COM/00/2892871278520101162058/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[195] FAIL 404 https://ID.GHWPC.COM/00/3784642110494811669670/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[196] FAIL 404 https://ID.GHWPC.COM/00/3885875973481244150379/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[197] FAIL 404 https://ID.GHWPC.COM/00/783251298394518628022/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[198] FAIL 404 https://ID.GHWPC.COM/00/3087287808573007620966/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=1A9CD2A75CB9A0BECC4A6B66 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[199] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805818/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA87A strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[200] FAIL 404 https://ID.GHWPC.COM/00/889497571157645406260/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530333034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[201] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164339765/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730353031 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[202] FAIL 404 https://ID.GHWPC.COM/00/4527739911084048581459/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730353031 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[203] FAIL 404 https://ID.GHWPC.COM/00/1608341334300099097904/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730353031 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[204] FAIL 404 https://ID.GHWPC.COM/00/2121628934453359497987/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730353031 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[205] FAIL 404 https://ID.GHWPC.COM/00/889497571166235471921/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303730353031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[206] FAIL 404 https://ID.GHWPC.COM/00/889497571157645471796/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530343034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[207] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164274228/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[208] FAIL 404 https://ID.GHWPC.COM/00/4527739911084047532867/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[209] FAIL 404 https://ID.GHWPC.COM/00/1608341334300082320432/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[210] FAIL 404 https://ID.GHWPC.COM/00/2121628934453091058435/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[211] FAIL 404 https://ID.GHWPC.COM/00/889497571161940439091/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[212] FAIL 404 https://ID.GHWPC.COM/00/889497571157645340724/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530323034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[213] FAIL 404 https://ID.GHWPC.COM/00/889497571153350570035/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430353033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[214] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164143156/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[215] FAIL 404 https://ID.GHWPC.COM/00/4527739911084045435715/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[216] FAIL 404 https://ID.GHWPC.COM/00/1608341334300048766000/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[217] FAIL 404 https://ID.GHWPC.COM/00/2121628934452554187523/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[218] FAIL 404 https://ID.GHWPC.COM/00/889497571153350504498/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[219] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805853/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA89D strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[220] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164077622/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363034 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[221] FAIL 404 https://ID.GHWPC.COM/00/4527739911084044387171/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363034 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[222] FAIL 404 https://ID.GHWPC.COM/00/1608341334300031989296/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363034 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[223] FAIL 404 https://ID.GHWPC.COM/00/2121628934452285760259/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363034 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[224] FAIL 404 https://ID.GHWPC.COM/00/889497571149055668276/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[225] FAIL 404 https://ID.GHWPC.COM/00/4178217251395005841915/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[226] FAIL 404 https://ID.GHWPC.COM/00/738345262145060478898/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[227] FAIL 404 https://ID.GHWPC.COM/00/2368791228581677234985/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[228] FAIL 400 https://ID.GHWPC.COM/00/121727794349674050196/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[229] FAIL 404 https://ID.GHWPC.COM/00/1947644709594784803145/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[230] FAIL 404 https://ID.GHWPC.COM/00/2828116456298685568150/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[231] FAIL 404 https://ID.GHWPC.COM/00/2748564954952162167136/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB294960 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[232] FAIL 404 https://ID.GHWPC.COM/00/889497571149055406132/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[233] FAIL 404 https://ID.GHWPC.COM/00/889497571149055406131/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330323033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[234] FAIL 404 https://ID.GHWPC.COM/00/889497571149055537204/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[235] FAIL 404 https://ID.GHWPC.COM/00/889497571157645275186/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303530313032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[236] FAIL 404 https://ID.GHWPC.COM/00/889497571153350635570/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[237] FAIL 404 https://ID.GHWPC.COM/00/889497571161940439089/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630343031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[238] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164077617/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330313032 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[239] FAIL 404 https://ID.GHWPC.COM/00/4527739911084044387091/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330313032 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[240] FAIL 404 https://ID.GHWPC.COM/00/1608341334300031988016/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330313032 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[241] FAIL 404 https://ID.GHWPC.COM/00/2121628934452285739779/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330313032 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[242] FAIL 404 https://ID.GHWPC.COM/00/889497571149055340594/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330313032 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[243] FAIL 404 https://ID.GHWPC.COM/00/889497571153350504497/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[244] FAIL 404 https://ID.GHWPC.COM/00/889497571153350373427/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[245] FAIL 404 https://ID.GHWPC.COM/00/889497571153350307892/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[246] FAIL 404 https://ID.GHWPC.COM/00/2368791228581677234981/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB253961 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[247] FAIL 400 https://ID.GHWPC.COM/00/121727794349674050131/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB253961 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[248] FAIL 404 https://ID.GHWPC.COM/00/1947644709594784802105/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB253961 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[249] FAIL 404 https://ID.GHWPC.COM/00/2828116456298685551510/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB253961 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[250] FAIL 404 https://ID.GHWPC.COM/00/2748564954952161900897/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280699500005001FB253961 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[251] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805844/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA894 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[252] FAIL 404 https://ID.GHWPC.COM/00/889497571153350635569/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430363031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[253] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805842/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA892 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[254] FAIL 404 https://ID.GHWPC.COM/00/2536427321130447600263/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA87E strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[255] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894654/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA87E strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[256] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894648/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA878 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[257] FAIL 404 https://ID.GHWPC.COM/00/889497571161940308019/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303630323033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[258] FAIL 404 https://ID.GHWPC.COM/00/889497571153350438961/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430333031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[259] FAIL 404 https://ID.GHWPC.COM/00/889497571153350504500/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343034 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[260] FAIL 404 https://ID.GHWPC.COM/00/889497571153350373425/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430323031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[261] FAIL 404 https://ID.GHWPC.COM/00/1463575365160164470836/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930343033 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[262] FAIL 404 https://ID.GHWPC.COM/00/4527739911084050678595/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930343033 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[263] FAIL 404 https://ID.GHWPC.COM/00/1608341334300132652080/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930343033 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[264] FAIL 404 https://ID.GHWPC.COM/00/2121628934453896364803/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930343033 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[265] FAIL 404 https://ID.GHWPC.COM/00/889497571174825340979/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303930343033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[266] FAIL 404 https://ID.GHWPC.COM/00/4178192477907723509914/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[267] FAIL 404 https://ID.GHWPC.COM/00/737948886348543166881/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[268] FAIL 404 https://ID.GHWPC.COM/00/2362449215837400242719/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[269] FAIL 400 https://ID.GHWPC.COM/00/20255590441242173948/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[270] FAIL 400 https://ID.GHWPC.COM/00/324089447059874783173/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[271] FAIL 404 https://ID.GHWPC.COM/00/463064670088351317086/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[272] FAIL 404 https://ID.GHWPC.COM/00/2686668238543975859681/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2801191A50300609A1FC5E1 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[273] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894647/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA877 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[274] FAIL 404 https://ID.GHWPC.COM/00/889497571149055668275/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330363033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[275] FAIL 404 https://ID.GHWPC.COM/00/889497571153350504499/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430343033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[276] FAIL 404 https://ID.GHWPC.COM/00/889497571149055537203/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303330343033 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[277] FAIL 404 https://ID.GHWPC.COM/00/889497571153350307889/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=544F57303842303430313031 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[278] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805854/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA89E strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[279] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894651/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA87B strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[280] FAIL 404 https://ID.GHWPC.COM/00/2803905275129999894675/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E28068980000A000FF8FA893 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[281] FAIL 404 https://ID.GHWPC.COM/00/4178217251395005846145/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=0
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[282] FAIL 404 https://ID.GHWPC.COM/00/738345262145060546584/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=4
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[283] FAIL 404 https://ID.GHWPC.COM/00/2368791228581678317956/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=8
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[284] FAIL 400 https://ID.GHWPC.COM/00/121727794349691377741/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[285] FAIL 404 https://ID.GHWPC.COM/00/1947644709595062043861/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[286] FAIL 404 https://ID.GHWPC.COM/00/2828116456303121419605/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[287] FAIL 404 https://ID.GHWPC.COM/00/2748564955023135790423/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184D557 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[288] FAIL 400 https://ID.GHWPC.COM/00/121727794349691377742/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184E957 strategy=synthetic_sscc_plus_window offset=12
+    detail={"type":"ValidationException","title":"Bad Request","status":400,"detail":"Validation failed: Invalid GCP Length, GCP Length should be between 6-12 digits. Please check the provided GCP Length: 0","instance":null}    
+[289] FAIL 404 https://ID.GHWPC.COM/00/1947644709595062043881/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184E957 strategy=synthetic_sscc_plus_window offset=16
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[290] FAIL 404 https://ID.GHWPC.COM/00/2828116456303121419925/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184E957 strategy=synthetic_sscc_plus_window offset=20
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[291] FAIL 404 https://ID.GHWPC.COM/00/2748564955023135795543/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E2806995000050128184E957 strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[292] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805820/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA87C strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[293] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805834/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA88A strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+[294] FAIL 404 https://ID.GHWPC.COM/00/2803905239945627805836/414/0614141012350?linkType=gs1%3Aepcis_repository
+    source=E280689800008000FF8FA88C strategy=synthetic_sscc_plus_window offset=24
+    detail={"type":"NotFoundException","title":"Not Found","status":404,"detail":"No matching link found for linkType: epcis_repository","instance":null}
+
+Successful URLs: 0
