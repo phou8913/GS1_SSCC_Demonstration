@@ -250,16 +250,28 @@ class TDS23SSCCDecoder:
     def _bits_to_int(self, bits: str) -> int:
         return int(bits, 2) if bits else 0
 
-
-##################### Possible bug here
+#####
     def _decode_fixed_length_numeric(self, bits: str, digit_count: int) -> str:
         """
-        Placeholder implementation.
-
-        Keep isolated so it can be replaced later with stricter TDS/TDT-conformant logic.
+        TDS 2.3 §14.5.4: decode as one decimal digit per 4-bit nibble.
         """
-        return str(self._bits_to_int(bits)).zfill(digit_count)
-#####################    
+        expected_bit_count = digit_count * 4
+        if len(bits) != expected_bit_count:
+            raise EPCDecodeError(
+                f"Fixed-Length Numeric expected {expected_bit_count} bits, got {len(bits)}."
+            )
+
+        digits: List[str] = []
+        for i in range(0, len(bits), 4):
+            nibble = bits[i:i + 4]
+            value = self._bits_to_int(nibble)
+            if value > 9:
+                raise EPCDecodeError(
+                    f"Invalid Fixed-Length Numeric nibble '{nibble}' at digit index {i // 4}."
+                )
+            digits.append(str(value))
+
+        return "".join(digits)
 
     def _decode_custom_hostname(self, bits: str) -> Optional[str]:
         """
